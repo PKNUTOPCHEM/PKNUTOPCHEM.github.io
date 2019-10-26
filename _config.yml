@@ -15,11 +15,7 @@ hero:
 api_token: # Enter API token here
 
 # Contact info
-contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    address: 부산광역시 남구 용소로 45, 충무관(B13) 4311호 대기화학연구실
 
 # Opening hours
 monday_friday: 9:00 – 18:00
